@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="23008000">
+<Project Type="Project" LVVersion="24008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -122,8 +122,8 @@
 			<Item Name="Controlling_the_Pump_Reglo_D.ctl" Type="VI" URL="../REGLO Digital/Controlling_the_Pump_Reglo_D.ctl"/>
 			<Item Name="DOConfigureCustomData.ctl" Type="VI" URL="../AD2_DO_SDK_class/DOConfigureCustomData.ctl"/>
 			<Item Name="dwf.dll" Type="Document" URL="/../Windows/System32/dwf.dll"/>
-			<Item Name="labbCAN_Bus_API.lvlib" Type="Library" URL="../../../Users/olaja/AppData/Local/CETONI_SDK/lib/labview/labbCAN_Bus_API/labbCAN_Bus_API.lvlib"/>
-			<Item Name="labbCAN_Pump_API.lvlib" Type="Library" URL="../../../Users/olaja/AppData/Local/CETONI_SDK/lib/labview/labbCAN_Pump_API/labbCAN_Pump_API.lvlib"/>
+			<Item Name="labbCAN_Bus_API.lvlib" Type="Library" URL="../../../Users/Lab user/AppData/Local/CETONI_SDK/lib/labview/labbCAN_Bus_API/labbCAN_Bus_API.lvlib"/>
+			<Item Name="labbCAN_Pump_API.lvlib" Type="Library" URL="../../../Users/Lab user/AppData/Local/CETONI_SDK/lib/labview/labbCAN_Pump_API/labbCAN_Pump_API.lvlib"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
