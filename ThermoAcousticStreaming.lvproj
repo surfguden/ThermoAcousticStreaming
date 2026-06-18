@@ -19,6 +19,7 @@
 		<Item Name="CetoniPump.lvclass" Type="LVClass" URL="../CetoniPump_class/CetoniPump.lvclass"/>
 		<Item Name="Experiment2.lvclass" Type="LVClass" URL="../Experiment2_class/Experiment2.lvclass"/>
 		<Item Name="ExperimentSeries2.lvclass" Type="LVClass" URL="../ExperimentSeries2_class/ExperimentSeries2.lvclass"/>
+		<Item Name="FrequencyHelper.vi" Type="VI" URL="../FrequencyHelper.vi"/>
 		<Item Name="Hamamatsu.lvclass" Type="LVClass" URL="../Hamamatsu_class/Hamamatsu.lvclass"/>
 		<Item Name="Hamamatsu_simulated.lvclass" Type="LVClass" URL="../Hamamatsu_simulated_class/Hamamatsu_simulated.lvclass"/>
 		<Item Name="hamamatsushowseq.vi" Type="VI" URL="../hamamatsushowseq.vi"/>
