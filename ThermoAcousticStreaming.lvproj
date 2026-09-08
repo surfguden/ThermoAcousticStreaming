@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="AD2_DO_SDK.lvclass" Type="LVClass" URL="../AD2_DO_SDK_class/AD2_DO_SDK.lvclass"/>
+		<Item Name="AD2_linear_sweep_helper.vi" Type="VI" URL="../AD2_linear_sweep_helper.vi"/>
 		<Item Name="AD2_MSO_SDK.lvclass" Type="LVClass" URL="../AD2_MSO_SDK_class/AD2_MSO_SDK.lvclass"/>
 		<Item Name="AD2_SDK.lvclass" Type="LVClass" URL="../AD2_SDK_class/AD2_SDK.lvclass"/>
 		<Item Name="AD2_WFG_SDK.lvclass" Type="LVClass" URL="../AD2_WFG_SDK_class/AD2_WFG_SDK.lvclass"/>
@@ -26,6 +27,7 @@
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Prior_Zmotor.lvclass" Type="LVClass" URL="../Prior_Zmotor_class/Prior_Zmotor.lvclass"/>
 		<Item Name="TDMSlogg.lvclass" Type="LVClass" URL="../TDMSlogg_class/TDMSlogg.lvclass"/>
+		<Item Name="test_sweep.vi" Type="VI" URL="../test_sweep.vi"/>
 		<Item Name="Valve.lvclass" Type="LVClass" URL="../Valve_class/Valve.lvclass"/>
 		<Item Name="Valve_Sim.lvclass" Type="LVClass" URL="../Valve_Sim_class/Valve_Sim.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
